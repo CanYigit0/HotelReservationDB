@@ -1,0 +1,82 @@
+City_Id;CityName;District_Id;DistrictName
+1;Adana;1;Akdeniz 
+2;Adiyaman;4;Guneydogu Anadolu 
+3;Afyonkarahisar;3;Ege
+4;Agri;2;Dogu Anadolu 
+5;Amasya;6;Karadeniz 
+6;Ankara;5;Ic Anadolu 
+7;Antalya;1;Akdeniz 
+8;Artvin;6;Karadeniz 
+9;Aydin;3;Ege 
+10;Balikesir;7;Marmara 
+11;Bilecik;7;Marmara 
+12;Bingol;2;Dogu Anadolu 
+13;Bitlis;2;Dogu Anadolu 
+14;Bolu;6;Karadeniz 
+15;Burdur;1;Akdeniz 
+16;Bursa;7;Marmara 
+17;Canakkale;7;Marmara 
+18;Cankiri;5;Ic Anadolu 
+19;Corum;6;Karadeniz 
+20;Denizli;3;Ege 
+21;Diyarbakir;4;Guneydogu Anadolu 
+22;Edirne;7;Marmara 
+23;Elazig;2;Dogu Anadolu 
+24;Erzincan;2;Dogu Anadolu 
+25;Erzurum;2;Dogu Anadolu 
+26;Eskisehir;5;Ic Anadolu 
+27;Gaziantep;4;Guneydogu Anadolu 
+28;Giresun;6;Karadeniz 
+29;Gumushane;6;Karadeniz 
+30;Hakkari;2;Dogu Anadolu 
+31;Hatay;1;Akdeniz 
+32;Isparta;1;Akdeniz 
+33;Mersin;1;Akdeniz 
+34;Istanbul;7;Marmara 
+35;Izmir;3;Ege 
+36;Kars;2;Dogu Anadolu 
+37;Kastamonu;6;Karadeniz 
+38;Kayseri;5;Ic Anadolu 
+39;Kirklareli;7;Marmara 
+40;Kirsehir;5;Ic Anadolu 
+41;Kocaeli;7;Marmara 
+42;Konya;5;Ic Anadolu 
+43;Kutahya;3;Ege 
+44;Malatya;2;Dogu Anadolu 
+45;Manisa;3;Ege 
+46;Kahramanmaras;1;Akdeniz 
+47;Mardin;4;Guneydogu Anadolu 
+48;Mugla;3;Ege 
+49;Mus;2;Dogu Anadolu 
+50;Nevsehir;5;Ic Anadolu 
+51;Nigde;5;Ic Anadolu 
+52;Ordu;6;Karadeniz 
+53;RIze;6;Karadeniz 
+54;Sakarya;7;Marmara 
+55;Samsun;6;Karadeniz 
+56;Siirt;4;Guneydogu Anadolu 
+57;Sinop;6;Karadeniz 
+58;Sivas;5;Ic Anadolu 
+59;Tekirdag;7;Marmara 
+60;Tokat;6;Karadeniz 
+61;Trabzon;6;Karadeniz 
+62;Tunceli;2;Dogu Anadolu 
+63;Sanliurfa;4;Guneydogu Anadolu 
+64;Usak;3;Ege 
+65;Van;2;Dogu Anadolu 
+66;Yozgat;5;Ic Anadolu 
+67;Zonguldak;6;Karadeniz 
+68;Aksaray;5;Ic Anadolu 
+69;Bayburt;6;Karadeniz 
+70;Karaman;5;Ic Anadolu 
+71;Kirikkale;5;Ic Anadolu 
+72;Batman;4;Guneydogu Anadolu 
+73;Sirnak;4;Guneydogu Anadolu 
+74;Bartin;6;Karadeniz 
+75;Ardahan;2;Dogu Anadolu 
+76;Igdir;2;Dogu Anadolu 
+77;Yalova;7;Marmara 
+78;Karabuk;6;Karadeniz 
+79;Kilis;4;Guneydogu Anadolu 
+80;Osmaniye;1;Akdeniz 
+81;Duzce;6;Karadeniz 
