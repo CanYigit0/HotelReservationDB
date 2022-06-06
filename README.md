@@ -21,7 +21,7 @@ After choosing the city from the select box and the start - end dates from the d
 you should show for each hotel, how many rooms are booked between these dates. You should write
 a PHP file (can be named as FilterHotelsByCityDate.php) for these selecting and showing actions.
 
-![image](https://user-images.githubusercontent.com/106977573/172174581-e7e2a5f7-00e5-476f-8e74-1cd5ed554a2d.png)
+![image](https://user-images.githubusercontent.com/106977573/172176067-07de2448-0115-4616-a923-e5b92676d4a5.png)
 
 Button B:
 (i) Click on a room type button to see which room type has been booked how many times.
@@ -32,9 +32,9 @@ booking information of that agency for the selected hotel.
 show his/her room information, booking price, booked date, start and end date, and total cost of the
 vacation.
 
-![image](https://user-images.githubusercontent.com/106977573/172175735-12ba27a5-40b6-498c-8f33-2c721826234d.png)
+![image](https://user-images.githubusercontent.com/106977573/172176179-a6de0c25-35b7-4f2f-b015-20466c3c9286.png)
 
-![image](https://user-images.githubusercontent.com/106977573/172175776-0090c98b-bc45-428b-812f-42bb65daf1e8.png)
+![image](https://user-images.githubusercontent.com/106977573/172176219-2505bd02-3a82-4264-bab6-254acb8835aa.png)
 
 ![image](https://user-images.githubusercontent.com/106977573/172175851-3f427c10-e055-4d1e-8f6d-54976768f408.png)
 
