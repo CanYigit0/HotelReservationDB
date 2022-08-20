@@ -1,5 +1,5 @@
 # HotelReservationDB
-Hotel Reservation Database.Designed an SQL database for a mock hotel chain that allowed for tracking room reservations, guests, room information and various amenities.
+Hotel Reservation Database.Designed an MySQL database for a mock hotel chain that allowed for tracking room reservations, guests, room information and various amenities.
 First, you have to have a solution stack. I suggest you to download "ampps" (https://www.ampps.com/). 
 After installing ampps, you need to download this code and move it to the "ampps install directory"/www/. (for ex: "C:\Program Files (x86)\Ampps\www").
 
